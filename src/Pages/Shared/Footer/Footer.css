@@ -1,0 +1,15 @@
+
+.footer-logo img{
+    background-color: #ff5534;
+    width: 70%;
+}
+.footer{
+    background-color: #1a1c28;
+    /* display: grid;
+    grid-template-columns: repeat(3,1fr); */
+}
+
+.logo-color{
+    color: #ff5534;
+
+}

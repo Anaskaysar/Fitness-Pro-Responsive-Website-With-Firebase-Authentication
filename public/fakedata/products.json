@@ -1,0 +1,32 @@
+[
+    {
+        "id":"P-1",
+        "name":"Wall Mounted Pull Up Chin Up Bar - Black",
+        "description":"Fit in Pull Up Bar and tighten all nuts and boltsEnjoy your pull ups 3 Tips To Be Able To Do More Pullups:1. Pullups are superior to pull downs Go to the gym any day of the week and I guarantee your chances of finding a free pull up bar is much higher than finding a free pull-down machine. People are lazy these days, they would rather do whats easy",
+        "warrenty":"Three years",
+        "delivery":"1000",
+        "img":"https://i.ibb.co/hFSDDcx/P-1.jpg"
+    },
+    {
+        "id":"P-2",
+        "name":"Cable Crossover JG-1614B",
+        "description":"Cable Crossover.Size: 4420×1170×2340mm.Weight: 216 kg.Weight stack: 160 kg.Brand Name: Jinggong.Model Number: JG-1614B. Type: Integrated Gym Trainer.Weight: 216kg. Color: Optional.",
+        "price":"90000",
+        "warrenty":"Three years",
+        "deliver":"500",
+        "img":"https://i.ibb.co/NmFDg6v/P-2.jpg"
+    },
+    {
+        "id":"P-3",
+        "name":"Leg Press JG-1616",
+        "description":"Leg Press.1970×1110×1830mm.Machine weight: 390 kg.Weight stack: 80 kg.Brand Name: JINGGONG.Model Number: JG-1616.Type: Integrated Gym Trainer.",
+        "price":"P-1",
+        "warrenty":"Three years",
+        "deliver":"free",
+        "img":"https://i.ibb.co/6B4dD0v/P-3.jpg"
+    }
+    
+]
+
+
+

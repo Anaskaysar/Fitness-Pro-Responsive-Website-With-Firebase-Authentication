@@ -1,0 +1,23 @@
+.notfound img{
+    width:100%; 
+    height: 600px;
+    background-repeat: no-repeat;
+    position: relative;
+}
+.notFound-btn{
+	width:190px;
+	height: 30px;
+    padding-bottom: 10px;
+    font-size: 1rem;
+    background-color: #ff5534;
+    box-shadow: 5px 10px 30px rgba(255, 2, 2, 0.336);
+    border-radius: 5px;
+	color:#fff2f2;
+    font-family:"Lato";
+}
+.trainer-btn:hover{
+	background-color: rgb(107, 45, 45);
+    transition: all ease 0.5s;
+    color: #ffffff;
+    border: 2px solid #ff5534;
+}

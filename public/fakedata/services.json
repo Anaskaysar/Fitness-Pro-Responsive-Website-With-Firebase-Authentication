@@ -1,0 +1,41 @@
+[
+    {
+    "id": "S1",
+    "title": "Personal Trainer",
+    "details": "We will be giving personal training to all individual people who will join us.We have plenty of trainers and stuffs. They always look for bringing out the best inside you.",
+    "image":"https://i.ibb.co/XYyv0dV/S01.png"
+    },
+    {
+    "id": "S2",
+    "title": "Body Building",
+    "details": "Bodybuilding is the use of progressive resistance exercise to control and develop one's muscles by muscle hypertrophy for aesthetic purposes. It is distinct from similar activities such as powerlifting because it focuses on physical appearance instead of strength.",
+    "image": "../assets/Services/S02.png",
+    "image2":"https://i.ibb.co/LQ7GV44/S02.png"
+    },
+    {
+    "id": "S3",
+    "title": "Gymnastic Rings",
+    "details": "The rings, also known as steady rings or still rings (in contrast to flying rings), is an artistic gymnastics apparatus and the event that uses it.",
+    "image": "https://i.ibb.co/ZHbXg39/S03.png"
+    },
+    {
+    "id": "S4",
+    "title": "Crossfit",
+    "details":"CrossFit courses and certifications are open to individuals and trainers seeking to improve their health and fitness through effective training and",
+    "image": "https://i.ibb.co/Hg8QxpW/S04.png"
+    },
+    {
+    "id": "S5",
+    "title": "Core",
+    "details": "The most effective core exercises are dead bug, side plank, front plant, vertical leg crunches, flutter kicks, Russian twists and the hollow body hold and hang. The core is a collection of muscles that stabilize, rotate and move the spine. A healthy core translates into a stronger lower back and better balance.",
+    "image":"https://i.ibb.co/HpBjV4C/S05.png"
+    },
+    {
+    "id": "S6",
+    "title": "Fitness",
+    "details": "Exercise undertaken to improve or maintain one's physical fitness and health. ... 'A physical fitness training regime was then drawn up to get him into top shape for the competition. ",
+    "image": "https://i.ibb.co/4dkjhpT/S06.png"
+    }
+]
+
+

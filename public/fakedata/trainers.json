@@ -1,0 +1,26 @@
+[
+    {
+      "id": 1,
+      "name": "RAY COLBERT",
+      "profession": "BODY BUILDER",
+      "clients": 100,
+      "image": "../assets/Trainers/trainer04.jpg",
+      "experience": 3
+    },
+    {
+      "id": 2,
+      "name": "KRISEN MISSY",
+      "profession": "FITNESS MODEL",
+      "clients": 27,
+      "image": "../assets/Trainers/trainer05.jpg",
+      "experience": 2
+    },
+    {
+      "id": 3,
+      "name": "GARNET SILAS",
+      "profession": "FITNESS EXPERT",
+      "clients":50,
+      "image": "../assets/Trainers/trainer06.jpg",
+      "experience": 3
+    }
+]
