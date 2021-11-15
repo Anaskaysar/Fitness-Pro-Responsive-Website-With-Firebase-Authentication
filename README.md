@@ -4,6 +4,33 @@ A Health Related Fitness Website Made With React Js. Apart From That i used fire
 
 [FITNESSPRO WEBSITE](https://fitnesspro-f9542.web.app/).
 
+
+## 🛠 Technology Stack
+
+- Language: JavaScript
+- Frontend Library: React.JS
+- State Management: Rest Api
+- UI Component: Tailwind CSS
+- Web Server: Node.JS
+- CI/CD: Github, Firebase.
+
+> ### Install
+``` 
+ npm install
+```
+> ### Build
+``` 
+ npm run build
+```
+> ### Start
+
+``` 
+ npm start
+```
+
+---
+
+
 # Gym Website
 
 The website here was designed to be simple and non fussy. The gallery images top centre shows two guys giving a high five. When attending a gym class one needs to form mini teams to go through the equipment for e.g. HIIT or TABATA classes.
